@@ -22,7 +22,7 @@ public class B {
 
     }
 
-    public void setA2(int novoValor) {
+    public void setB2(int novoValor) {
 
         B2 = novoValor;
 
