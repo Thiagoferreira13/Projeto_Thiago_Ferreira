@@ -25,4 +25,9 @@ public class D {
     public void MD2() {
         System.out.println("MD2" + "É um metodo da Classe D");
    }
+
+    public void MD4() {
+        System.out.println("MD4");
+    }
+    
 }
