@@ -26,7 +26,5 @@ public class D {
         System.out.println("MD2" + "É um metodo da Classe D");
    }
 
-   public void MD3() {
-        System.out.println("MD3");
-   }
+   
 }
