@@ -24,7 +24,6 @@ public class C {
     public void setC2(int novoC2) {
 
         C2 = novoC2;
-
     }
 
     public void MC1() {
