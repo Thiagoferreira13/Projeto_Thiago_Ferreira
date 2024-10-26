@@ -1,41 +1,33 @@
 public class C {
-    
     private String C1;
     private int C2;
 
     public String getC1() {
-
         return C1;
-
     }
 
     public int getC2() {
-
         return C2;
-
     }
 
     public void setC1(String novoC1) {
-
         C1 = novoC1;
-
     }
 
     public void setC2(int novoC2) {
-
         C2 = novoC2;
     }
 
-    public void MC1() {
-        
+    public void MC1() {       
         System.out.println("MC1");
-
     }
 
-    public void MC2() {
-        
+    public void MC2() {       
         System.out.println("MC2");
+    }
 
+    public void MB3() {
+        System.out.println("MB3");    
     }
 
 }
